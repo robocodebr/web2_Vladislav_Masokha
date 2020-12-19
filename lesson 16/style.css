@@ -1,0 +1,44 @@
+/* .mytable td, .mytable th, .mytable {
+    border: 2px solid #000;
+} */
+
+/* .block1 {
+    border: 2px solid #000;
+    font-size: 20px;
+}
+
+.block1 tr {
+    border: 2px solid #000;
+}
+td {
+    text-align: center;
+}
+td.q1 {
+    padding: 30px;
+    color: #fff;
+    background-color: red;
+}
+
+td.q2 {
+    background-color: rgb(0, 195, 255);
+    padding: 0 15px;
+}
+
+td.q4 {
+    padding: 5px 15px;
+    background-color: rgb(0, 195, 255);
+}
+
+td.q5 {
+    background-color: #fff;
+} */
+
+img {
+    width: 200px;
+    height: 200px;
+}
+
+img:hover {
+    width: 300px;
+    height: 300px;
+}
